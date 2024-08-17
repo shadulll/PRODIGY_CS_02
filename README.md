@@ -38,6 +38,8 @@ File Format Support:
 
 Supports common image formats including .png, .jpg, .jpeg, .bmp, and .tiff.
 
+
+
 How It Works:
 
 User Interface:
